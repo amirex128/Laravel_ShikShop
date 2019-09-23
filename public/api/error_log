@@ -1,0 +1,65 @@
+[16-Apr-2019 14:39:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shikshop/public_html/public/api/DatabaseManager.php on line 21
+[16-Apr-2019 15:59:54 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/shikshop/public_html/public/api/DatabaseManager.php on line 23
+[16-Apr-2019 16:00:03 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/shikshop/public_html/public/api/DatabaseManager.php on line 23
+[16-Apr-2019 16:00:34 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/shikshop/public_html/public/api/DatabaseManager.php on line 23
+[17-Apr-2019 10:47:07 UTC] PHP Warning:  A non-numeric value encountered in /home/shikshop/public_html/public/api/DatabaseManager.php on line 47
+[17-Apr-2019 11:06:32 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:19:37 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:20:57 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:21:13 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/login.php on line 8
+[17-Apr-2019 11:21:13 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/shikshop/public_html/public/api/login.php on line 9
+[17-Apr-2019 11:21:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shikshop/public_html/public/api/DatabaseManager.php on line 72
+[17-Apr-2019 11:21:13 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:21:28 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/login.php on line 8
+[17-Apr-2019 11:21:28 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/shikshop/public_html/public/api/login.php on line 9
+[17-Apr-2019 11:21:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shikshop/public_html/public/api/DatabaseManager.php on line 72
+[17-Apr-2019 11:21:28 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:22:43 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:24:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shikshop/public_html/public/api/DatabaseManager.php on line 72
+[17-Apr-2019 11:24:33 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:32:11 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:32:26 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:32:47 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 11:33:07 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 12:25:37 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/login.php on line 8
+[17-Apr-2019 12:25:37 UTC] PHP Notice:  Trying to get property 'password' of non-object in /home/shikshop/public_html/public/api/login.php on line 9
+[17-Apr-2019 12:25:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/shikshop/public_html/public/api/DatabaseManager.php on line 72
+[17-Apr-2019 12:25:37 UTC] PHP Notice:  Undefined offset: 0 in /home/shikshop/public_html/public/api/DatabaseManager.php on line 75
+[17-Apr-2019 12:25:58 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:25:58 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:26:27 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:26:27 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:26:34 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:26:34 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:28:49 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:28:49 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:28:55 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:28:55 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:29:42 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:29:42 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:30:21 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:30:21 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:31:14 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:31:14 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:32:23 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:32:23 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:33:55 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:33:55 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:34:23 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:34:23 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:34:37 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:34:37 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:35:07 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:35:07 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:35:07 UTC] PHP Notice:  Undefined variable: row in /home/shikshop/public_html/public/api/DatabaseManager.php on line 94
+[17-Apr-2019 12:35:46 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:35:46 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:37:51 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:37:51 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:38:26 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:38:26 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:39:35 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 7
+[17-Apr-2019 12:39:35 UTC] PHP Notice:  Trying to get property 'mobilenumber' of non-object in /home/shikshop/public_html/public/api/add_ticket.php on line 8
+[17-Apr-2019 12:44:21 UTC] PHP Notice:  Undefined property: stdClass::$usermobilenumber in /home/shikshop/public_html/public/api/add_ticket.php on line 6
+[17-Apr-2019 12:45:31 UTC] PHP Notice:  Undefined property: stdClass::$usermobilenumber in /home/shikshop/public_html/public/api/add_ticket.php on line 6
+[17-Apr-2019 12:47:57 UTC] PHP Notice:  Undefined property: stdClass::$usermobilenumber in /home/shikshop/public_html/public/api/add_ticket.php on line 6
